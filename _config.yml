@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: My Homepage
+description: Hello
+show_downloads: false
