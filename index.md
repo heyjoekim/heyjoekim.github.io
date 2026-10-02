@@ -3,6 +3,7 @@
 I am a current PhD Candidate at Syracuse University, studying snow hydrology. I am interested in being able to measure and understand snowpack dynamics in current climate conditions.
 
 I've approached this problem using several techniques ranging from field methods to modeling to data science and causal statistics. I've also used cosmic ray neutron sensing to measure how much water is stored in the snowpack.
+<br style="clear: both;" />
 
 # Publications
 3. **Kim, H.**, Sproles, E., and Tuttle, S. E.: Influence of snow spatial variability on cosmic ray neutron snow water equivalent (SWE): case study in a northern prairie, The Cryosphere, 19, 3177–3191, https://doi.org/10.5194/tc-19-3177-2025, 2025.
