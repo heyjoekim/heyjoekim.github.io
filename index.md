@@ -1,5 +1,5 @@
 # About Me
-<img src="./assets/imgs/IMG_0138.jpg" style="float: left; margin-right: 15px; margin-bottom: 5px;">
+<img src="./assets/imgs/IMG_0138.jpg" style="float: left; margin-right: 15px; margin-bottom: 5px; width: 150px;">
 I am a current PhD Candidate at Syracuse University, studying snow hydrology. I am interested in being able to measure and understand snowpack dynamics in current climate conditions.
 
 I've approached this problem using several techniques ranging from field methods to modeling to data science and causal statistics. I've also used cosmic ray neutron sensing to measure how much water is stored in the snowpack.
